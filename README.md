@@ -1,3 +1,7 @@
+<h1 align="center">
+    <b> NOTE : this theme has been made for my specific needs (aka neovim and kitty). The other extras are NOT configured. </b>
+</h1>
+
 <p align="center">
     <img src="https://github.com/scottmckendry/cyberdream.nvim/assets/39483124/e758f47a-32eb-4eac-a008-eb59272badef">
     <b><i>A high-contrast, futuristic & vibrant theme for neovim</i></b>
