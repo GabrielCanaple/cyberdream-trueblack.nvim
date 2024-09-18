@@ -19,7 +19,7 @@ local M = {}
 ---@field purple "#bd5eff"|string
 
 ---@class CyberdreamColorDefault
----@field bg "#16181a"|string
+---@field bg "#000000"|string
 ---@field bgAlt "#1e2124"|string
 ---@field bgHighlight "#3c4048"|string
 ---@field bg_solid? string
@@ -38,7 +38,7 @@ local M = {}
 ---@class CyberdreamColors
 ---@field default CyberdreamColorDefault
 M.default = {
-    bg = "#16181a",
+    bg = "#000000",
     bgAlt = "#1e2124",
     bgHighlight = "#3c4048",
     fg = "#ffffff",
